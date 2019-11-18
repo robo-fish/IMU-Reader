@@ -31,4 +31,16 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Documentation/DOGM204-A.pdf</name>
+			<type>1</type>
+			<locationURI>$%7BPROJECT_LOC%7D/Documentation/DOGM204-A.pdf</locationURI>
+		</link>
+		<link>
+			<name>Documentation/MPU-9250.pdf</name>
+			<type>1</type>
+			<locationURI>$%7BPROJECT_LOC%7D/Documentation/MPU-9250.pdf</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
